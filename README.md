@@ -8,7 +8,7 @@ Any code demonstrated in this repository is for educational purposes only and is
 
 # Projects
 <table>
-  <th>Project</th>
+  <th>Projects</th>
   <tr>
     <td><a href = "https://github.com/amphib24/bash_scripts/blob/main/nmap-scanner-script/README.md">Nmap Network Scanner</a></td>
   </tr>
